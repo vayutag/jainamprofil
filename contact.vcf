@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jainam Doshi
+N:Doshi;Jainam;;;
+ORG:Taranga Digital Marketing Agency Pvt Ltd
+TITLE:Digital Marketing Expert
+TEL;TYPE=CELL,VOICE:+919023515416
+TEL;TYPE=WORK,VOICE:+919023515416
+EMAIL;TYPE=WORK:jainam@taranga.tech
+URL;TYPE=WORK:https://www.taranga.tech/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/taranga.tech
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/company/taranga-tech/
+X-SOCIALPROFILE;TYPE=twitter:https://x.com/tarangadigital
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/people/Taranga-Digital-Marketing-Agency-Pvt-Ltd/61580259852427/
+END:VCARD
